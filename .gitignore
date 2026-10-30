@@ -8,3 +8,5 @@ node_modules/
 .idea/
 *.tmp
 *.swp
+.gh-pages-worktree/
+.gh-pages-staging/
